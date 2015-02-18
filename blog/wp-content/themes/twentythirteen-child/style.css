@@ -1,0 +1,92 @@
+/*
+Theme Name: Twenty Thirteen Child
+Theme URI: http://ooh-oink.net/blog/wp-content/themes/twentythirteen-child/
+Author: Bob Mitchell
+Author URI: http://ooh-oink.net/blog/
+Template: twentythirteen
+Description: Twenty Thirteen Child Theme
+Version: 1.0
+Tags:
+Text Domain: twentythirteen-child
+*/
+
+@import url("../twentythirteen/style.css");
+
+/* Theme customisation starts here
+========================================= */
+
+
+/* stop masthead from being hidden left and right */
+
+/*#masthead.site-header {
+	background-size: 100%;
+}
+
+ header#masthead {
+	width: 100%;
+} */
+
+
+
+/* change default fonts */
+html,
+button,
+input,
+select,
+textarea {
+	font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+}
+
+h1.entry-title {
+	font-size: 36px;
+	font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+}
+
+.more-link {
+	white-space:nowrap;
+	font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+	font-style: italic;
+	padding-left:20px;
+	}
+
+header.site-header .home-link {
+margin:0;
+padding:0;
+}
+
+header.site-header {
+ background: none;
+}
+
+a.home-link {
+	display:none !important;
+	}
+
+div #oinkimg {
+background-color:#000000;
+text-align:center;
+}
+
+div #oinkimg img {
+max-width:1024px;
+margin: 0 auto;
+}
+
+div.entry-content {
+    -moz-hyphens: none;
+    word-wrap: normal;
+    word-break: keep-all;
+}
+
+p.comment-form-url {
+	display:none;
+}
+
+.widget {
+background-color: rgba(247, 245, 231, 1);
+}
+
+/* Quote */
+.format-quote {
+	background-color: #957860;
+}

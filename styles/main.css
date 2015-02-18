@@ -1,0 +1,128 @@
+body, p, td { 
+	font: normal 12px/15px Tahoma,Verdana,Arial,sans-serif; color: white; background-color: black; margin: 0; padding: 0;
+}
+
+img { border: none; }
+
+.cclear { 
+	clear: both;
+}
+
+.container { width: 1250px; }
+
+.masthead {
+	font: normal 12px/14px Tahoma,Verdana,Arial,sans-serif;
+	text-align: left;
+	background-color: black;
+	color: white;
+	height: 120px;
+	clear: both;
+	margin-bottom: 0;
+	}
+
+.topNav {
+	font: normal 12px/14px Tahoma,Verdana,Arial,sans-serif;
+	text-align: left;
+	background-color: black;
+	color: pink;
+	height: 12px;
+	clear: both;
+	margin: 0; padding: 0;
+	border: 0;
+	}
+
+.thumbtext {
+	font: normal 12px/14px Tahoma,Verdana,Arial,sans-serif;
+	color: #666666;
+	clear: left;
+	margin: 5px 0;
+	width: 158px;
+	background-color: #ffffff;
+	padding: 1px 5px;
+}
+
+.thumblink {
+	font: normal 12px/18px Tahoma,Verdana,Arial,sans-serif;
+	color: #ffffff;
+	clear: left;
+	margin: 5px 0;
+	width: 158px;
+	background-color: #000000;
+	padding: 1px 5px;
+}
+
+.thumblink a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.masthead span#mailLink a { color: pink; background-color: #000000; text-align: right; float: left;}
+#mailLink a { color: pink; background-color: #000000;}
+
+.thumbs {
+	width: 190px;
+	float: left;
+	margin: 2px 0 0 3px;
+	background-color: black;
+}
+
+.thumb {
+	border: 1px solid #333333;
+	background-repeat: no-repeat;
+	background-position: top left;
+	width: 40px; height: 40px;
+	margin: 0 0px 0px 0;
+	float: left;
+}
+
+.mainarea {
+	width: auto;
+	padding: 1px 0 0 0;
+	float: left;
+}
+
+.mainpic {
+	background-repeat: no-repeat;
+	background-position: top left;
+	width: auto;
+	border: 2px solid black;
+	margin: 0 0 10px 0;
+}
+
+.linkArrow { font-size: 14px; color: #ff0000; vertical-align: bottom;}
+
+#caption {
+	font: bold 12px/15px Tahoma,Verdana,Arial,sans-serif;
+	color: #ffffff;
+	clear: left;
+	width: 750px;
+}
+
+#copyright { font-color: pink;}
+#photo { font-color: cyan;}
+
+#who { display: inline; padding-right: 5px;}
+#where { display: inline; padding-right: 5px;}
+#when { display: inline; padding-right: 5px;}
+
+.homepic {
+	background-repeat: no-repeat;
+	background-position: top center;
+	width: auto;
+	border: 2px solid white;
+	margin: 0 0 10px 20px;
+}
+
+.cool {
+	font: normal 12px/17px Arial,Verdana,Helvetica,sans-serif;
+	color: #ffcc33;
+	margin: 0 0 20px 50px;
+	width: 600px;
+	}
+	
+.cool .item {
+	padding-bottom: 10px;
+	}
+.cool .item li {
+	padding-bottom: 5px;
+	}

@@ -1,0 +1,538 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "24 September 2006">
+	<sitename>Imad &amp; Amira</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "DSCN4266.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4266.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4267.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4267.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4268.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4268.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4269.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4269.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4270.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4270.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4273.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4273.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4274.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4274.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4275.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4275.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4276.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4276.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4277.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4277.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4278.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4278.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4279.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4279.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4280.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4280.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4281.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4281.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4282.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4282.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4283.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4283.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4284.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4284.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4285.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4285.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4286.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4286.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4288.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4288.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4289.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4289.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4290.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4290.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4291.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4291.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4292.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4292.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4295.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4295.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4296.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4296.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4298.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4298.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4300.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4300.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4302.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4302.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4305.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4305.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4307.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4307.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4311.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4311.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4314.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4314.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4322.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4322.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4323.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4323.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4326.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4326.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4327.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4327.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4330.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4330.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4331.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4331.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4332.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4332.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4336.jpg"
+width = "562"
+height = "750"
+thumbpath = "DSCN4336.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4338.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4338.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4341.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4341.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4342.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4342.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4345.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4345.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4346.jpg"
+width = "750"
+height = "562"
+thumbpath = "DSCN4346.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+
+<image
+path = "DSCN4347.jpg"
+width = "750"
+height = "563"
+thumbpath = "DSCN4347.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[          ]]></meta>
+</image>
+
+</images>
+</gallery>

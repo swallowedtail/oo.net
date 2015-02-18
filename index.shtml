@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/frameset.dtd">
+<html>
+<head>
+	<title>OOH - OINK!</title>
+<meta http-equiv="refresh" content="1;URL=http://www.ooh-oink.com">
+<meta http-equiv="Content-Type" content="text/html; CHARSET=iso-8859-1">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Expires" content="Tue, 04 Dec 1993 21:29:02 GMT">
+<meta name="author" content="Robert Mitchell">
+<meta name="copyright" content="Robert Mitchell">
+<meta name="description" content="Rob Mitchell's family website and photo gallery">
+<meta name="keywords" content="mitchell gowlett stimson yates melvin mcdermid vree conroy 1939-45 war WWII WW2 world war two freetown sierra leone el alamein north africa italy monte cassino brass dish moorish knight">
+<meta name="rating" content="general"> 
+
+<link rel="stylesheet" href="ooh-oink1.css">
+<script src="../scripts/popups.js" language="JavaScript" type="text/javascript"></script>
+
+
+</head>
+
+<!-- BEGIN PAGE -->
+
+<frameset rows="70,*" cols="105,*" frameborder="0" border="0" framespacing="0">
+	<frame src="skylark.html" name="topleft" marginwidth="0" marginheight="0" scrolling="NO" frameborder="0" noresize />
+	<frame src="top.html" name="top" marginwidth="0" marginheight="0" scrolling="NO" frameborder="0" noresize />
+	<frame src="left_39-45.html" name="left" marginwidth="0" marginheight="0" scrolling="AUTO" frameborder="0" noresize />
+	<frame src="main.html" name="main" marginwidth="20" marginheight="20" scrolling="AUTO" frameborder="0" />
+</frameset>
+		
+	<noframes>
+		<body bgcolor="#000000" text="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" link="#ffcc00" alink="#ffcc00" vlink="#ffcc00">
+			<p>This site uses frames.</p>
+		</body>
+	</noframes>
+</frameset>
+</html>
