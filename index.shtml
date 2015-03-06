@@ -1,36 +1,31 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
-        "http://www.w3.org/TR/1999/REC-html401-19991224/frameset.dtd">
+<!doctype html>
 <html>
 <head>
-	<title>OOH - OINK!</title>
-<meta http-equiv="Content-Type" content="text/html; CHARSET=iso-8859-1">
-<meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="Expires" content="Tue, 04 Dec 1993 21:29:02 GMT">
-<meta name="author" content="Robert Mitchell">
-<meta name="copyright" content="Robert Mitchell">
-<meta name="description" content="Rob Mitchell's family website and photo gallery">
-<meta name="keywords" content="mitchell gowlett stimson yates melvin mcdermid vree conroy 1939-45 war WWII WW2 world war two freetown sierra leone el alamein north africa italy monte cassino brass dish moorish knight">
-<meta name="rating" content="general"> 
+<meta charset="utf-8">
+<title>OOOOOOOOOH-OINK!</title>
+<meta name="description" content="Photos relating to the war experiences of Don Gowlett, 1/4 Battalion, 4th Indian Division, Essex Regiment 1939-1945" />
+<meta name="keywords" content="mitchell gowlett stimson yates melvin mcdermid conroy 1939-45 war WWII WW2 world war two freetown sierra leone el alamein north africa italy monte cassino cyprus" />
 
-<link rel="stylesheet" href="ooh-oink1.css">
-<script src="../scripts/popups.js" language="JavaScript" type="text/javascript"></script>
-
-
+<link rel="stylesheet" href="styles/main.css" />
+<script src="scripts/warSwapper.js" type="text/JavaScript"></script>
 </head>
 
 <!-- BEGIN PAGE -->
+<body>
+<div class="container">
+	<!--#include file="includes/masthead01.html" -->
 
-<frameset rows="70,*" cols="105,*" frameborder="0" border="0" framespacing="0">
-	<frame src="skylark.html" name="topleft" marginwidth="0" marginheight="0" scrolling="NO" frameborder="0" noresize />
-	<frame src="top.html" name="top" marginwidth="0" marginheight="0" scrolling="NO" frameborder="0" noresize />
-	<frame src="left_39-45.html" name="left" marginwidth="0" marginheight="0" scrolling="AUTO" frameborder="0" noresize />
-	<frame src="main.html" name="main" marginwidth="20" marginheight="20" scrolling="AUTO" frameborder="0" />
-</frameset>
-		
-	<noframes>
-		<body bgcolor="#000000" text="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" link="#ffcc00" alink="#ffcc00" vlink="#ffcc00">
-			<p>This site uses frames.</p>
-		</body>
-	</noframes>
-</frameset>
+	<div class="mainarea">
+		<div class="homepic"><img id="imgPhoto" src="images/home/sign.jpg" alt="" width="929" height="697" usemap="#map" /></div>
+	</div>
+
+</div>
+
+<map name="map" id="map">
+<area shape="rect" coords="254,148,452,329" alt="photos from 1939-45 - Sierra Leone, North Africa" title="photos from 1939-45 - Sierra Leone, North Africa" href="war01.shtml" />
+<area shape="rect" coords="515,163,702,321" alt="my photo gallery" title="my photo gallery - under construction" href="fauna01.shtml" />
+<area shape="rect" coords="238,426,437,509" alt="family stuff" title="family stuff - under construction" href="family01.shtml" />
+</map>
+
+</body>
 </html>

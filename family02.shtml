@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>OOOOOOOOOH-OINK!</title>
+<meta http-equiv="Content-Type" content="text/html; CHARSET=iso-8859-1" />
+<meta name="author" content="Robert Mitchell" />
+<meta name="copyright" content="Robert Mitchell" />
+<meta name="copyright" content="ooh-oink.com" />
+<meta name="description" content="rob mitchell's photo gallery" />
+<meta name="keywords" content="family tree free mcdermid bolton adriaanse gowlett stimson" />
+<meta name="rating" content="general" /> 
+
+<link rel="stylesheet" href="styles/main.css" />
+<script src="scripts/familySwapper.js" language="JavaScript" type="text/JavaScript"></script>
+
+</head>
+
+<!-- BEGIN PAGE -->
+<body>
+<div class="container">
+	<!--#include file="includes/masthead01.html" -->
+
+	<!--#include file="includes/family_thumbs02.html" -->
+	
+	<div class="mainarea">
+		<div class="mainpic"><img id="imgPhoto" src="images/family2/DSCN2621.JPG" alt="Click the thumbnails (left) to view the images" border="0" /></div>
+		<div id="caption">2. Mum, Frank and Iris</div>
+		<div id="copyright">&nbsp;</div>
+		<div id="photo">&nbsp;</div>
+	</div>
+
+
+</div>
+</body>
+</html>

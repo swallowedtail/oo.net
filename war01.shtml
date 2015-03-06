@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>OOOOOOOOOH-OINK!</title>
+<meta http-equiv="Content-Type" content="text/html; CHARSET=iso-8859-1" />
+<meta name="author" content="Robert Mitchell" />
+<meta name="copyright" content="Robert Mitchell" />
+<meta name="copyright" content="ooh-oink.com" />
+<meta name="description" content="Photos relating to the war experiences of Don Gowlett, 1/4 Battalion, 4th Indian Division, Essex Regiment 1939-1945" />
+<meta name="keywords" content="mitchell gowlett stimson yates melvin mcdermid vree conroy 1939-45 war WWII WW2 world war two freetown sierra leone el alamein north africa italy monte cassino cyprus" />
+<meta name="rating" content="general" /> 
+
+<link rel="stylesheet" href="styles/main.css" />
+<script src="scripts/warSwapper.js" language="JavaScript" type="text/JavaScript"></script>
+
+</head>
+
+<!-- BEGIN PAGE -->
+<body>
+<div class="container">
+	<!--#include file="includes/masthead01.html" -->
+
+	<!--#include file="includes/war_thumbs01.html" -->
+	
+	<div class="mainarea">
+		<div class="mainpic"><img id="imgPhoto" src="images/war/war01intro.jpg" alt="Click the thumbnails (left) to view the images" border="0" /></div>
+		<div id="caption">&nbsp;</div>
+		<div id="copyright">&nbsp;</div>
+		<div id="photo">&nbsp;</div>
+	</div>
+
+
+</div>
+</body>
+</html>
