@@ -1,0 +1,99 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Generator" content="Microsoft Word 98">
+<title>ehsrealtime HTML/XML spec</title>
+<basefont color="red" face="Futura,Arial,Helvetica,Sans-Serif" size="2">
+</head>
+<body bgcolor="#abcdef" link="#0000ff">
+
+
+
+<table width="650" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20">&nbsp;</td>
+<td width="610">
+<p align="center"><img src="../images/lg_ehsrealtime.gif" alt="" width="100" height="14" align="middle" hspace="9">20 June 2000</p>
+<p align="center"><b>7 Soho Square London W1V 5DD<br>
+Tel 020 7544 4600 : Fax 020 7544 4700 : ISDN 020 7544 0022</b></p>
+<p align="center"><b>7 Soho Square London W1V 6EH<br>
+Tel 020 7878 2600 : Fax 020 7878 2610 : ISDN 020 7544 0022<br>
+<a href="http://www.ehsrealtime.co.uk" target="_blank">www.ehsrealtime.co.uk</a></b></p>
+<p>&nbsp;</p>
+
+<h2>HTML/XHTML Guidelines</h2>
+<h5>html_guidelines_v1.0.doc - 26.05.00</h5>
+<p>&nbsp;</p>
+<p><b>Introduction</b></p>
+<p>These guidelines have been created for the following reasons:</p>
+<ol>
+  <li>To encourage use of a &quot;house style&quot; of html code which all developers are familiar with;</li>
+  <li>To facilitate the current and future use of html code produced now within emerging stylesheet languages such as xsl;</li>
+  <li>To enable sophisticated global &quot;grep pattern&quot; searching throughout every document of a web site.</li>
+</ol>
+
+<p>&nbsp;</p>
+<p><b>HTML guidelines</b></p>
+<p><b>NB</b> Many of these rules are mandatory for XHTML, optional for HTML, but should be followed nonetheless. The rules specific to XHTML only are listed separately - these should be followed in addition to the HTML guidelines when producing HTML template files for incorporation into XSL documents. There is also an html template file (html_guidelines_template.html) containing examples of the relevant code, including document type definitions and suitable meta tags.</p>
+<ol>
+  <li>All attribute values should be quoted. For example, &lt;font size="2"&gt;. </li>
+  <li>All tags should be lowercase. NB attribute values may be either case, eg &lt;font color=&quot;#FF00FF&quot;&gt;.</li>
+  <li>All elements should have a closing element. For example, &lt;p&gt;&#133;&lt;/p&gt;<br>
+NB when preparing xhtml for use in xsl stylesheets see additional notes below regarding non-paired tags. </li>
+  <li>All elements should nest properly. For example, &lt;p&gt;&lt;b&gt;&#133;&lt;/b&gt;&lt;/p&gt;.</li>
+  <li>Non-paired tags such as &lt;br&gt; or &lt;img&gt; should be modified to include a &quot;slash&quot; at the end, <br>
+eg use the single element &lt;br /&gt;. Note the white space before the slash.</li>
+  <li>All alphanumeric characters will have to be expressed as entities.</li>
+  <li>When an attribute value contains an ampersand, it should be expressed as an entity reference. For example, when the &quot;href&quot; attribute of the &lt;a&gt; element refers to a CGI script that takes parameters, it should be expressed as: <br>
+http://www.canon.co.uk/cgi-bin/parser.pl?page=products&amp;amp;product=630. </li>
+  <li>Certain element attributes should always be present, and should be stated in specific order.<br>
+See file &quot;html_guidelines_template.html&quot;.</li>
+</ol>
+
+<p>&nbsp;</p>
+<p><b>XHTML guidelines - specific to implementation of XSL stylesheets</b></p>
+
+<dir>
+<p>1.&#9;Attribute minimization is forbidden; every attribute must have a value, eg &lt;td nowrap&gt; must be written as &lt;td nowrap=&quot;nowrap&quot;&gt;.</p>
+<p>2.&#9;The id attribute replaces the name attribute of HTML 4.0. This is only relevant to the elements a, applet, frame, iframe, img, and map.</p>
+<p>3.&#9;Script and Style elements must be enclosed within &quot;CDATA&quot; sections:<br>
+<br>
+&lt;script&gt;<br>
+&#9;&lt;![CDATA[<br>
+&#9;&#9; ... script content ...<br>
+&#9;]]&gt;<br>
+&lt;/script&gt;</p>
+<p>4.&#9;There are some mandatory elements: <br>
+i&#9;the DOCTYPE declaration<br>
+;;&#9;the &lt;html&gt; element must include a namespace declaration<br>
+iii&#9;the &lt;head&gt; element must be present and include a title element<br>
+iv&#9;the &lt;body&gt; element must be present.</p>
+<p>&nbsp;</p>
+</dir>
+
+<b><p>Meta Tags</p>
+</b><p>To enhance accessibility to search engines which use web spiders to index pages always specify keywords and a page description within the meta tags. Try to use &quot;pairs&quot; of keywords, and also incorporate as many keywords in the page&#146;s &lt;title&gt; tags as possible. Although it&#146;s generally the author&#146;s responsibility, the recommendation to clients should be that keywords should appear as early as possible within the &lt;body&gt; tags as well. We can help here by choosing keywords selectively from the first few paragraphs.</p>
+<p>&nbsp;</p>
+<b><p>Supplementary attributes for non-visual browsers</p>
+</b><p>Certain attributes should be added to enhance accessibility to information by non-graphical and aural browsers.</p><dir>
+
+<p>1.&#9;&quot;alt&quot; attribute should always be used to give a short description of images within the &lt;img&gt; element. If necessary a &quot;longdesc&quot; attribute may be used to reference an external descriptive file.</p>
+<p>2.&#9;&quot;summary&quot; attribute may be added to &lt;table&gt; element to give a description of the table&#146;s purpose.</p>
+<p>3.&#9;&lt;label&gt; element may be used to tag form elements with a description of their purpose, eg:</p>
+<p>        &lt;form action="mailto:admin@realtime.co.uk"&gt;</p>
+<p>&#9;&lt;label&gt;Name&lt;br&gt;&lt;input name="Name" size=30&gt;&lt;/label&gt;&lt;br /&gt;</p>
+<p>&#9;&lt;label&gt;Address&lt;br&gt;&lt;input name="Address" size=45&gt;&lt;/label&gt;&lt;br /&gt;</p>
+<p>&nbsp;</p></dir>
+
+<p><b>Useful Links</b></p>
+<p>HTML Tidy - useful for cleaning up code<br>
+<a href="http://www.w3.org/People/Raggett/tidy/">http://www.w3.org/People/Raggett/tidy/</a></p>
+<p>HTML/XHTML Validator<br>
+<a href="http://validator.w3.org/">http://validator.w3.org/</a></p>
+
+</td>
+<td width="20">&nbsp;</td>
+</tr>
+</table>
+</body>
+</html>
