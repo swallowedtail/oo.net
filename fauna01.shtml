@@ -2,8 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>OOOOOOOOOH-OINK!</title>
-<meta name="keywords" content="bees insects oedemeridae fly flies bugs flowers rat butterfly butterflies beetle " />
+<title>ooh-oink!</title>
+<meta name="keywords" content="bees insects oedemeridae fly flies bugs flowers rat butterfly butterflies beetle" />
 
 <link rel="stylesheet" href="styles/main.css" />
 <script src="scripts/faunaSwapper.js"></script>
@@ -13,7 +13,7 @@
 <!-- BEGIN PAGE -->
 <body>
 <div class="container">
-	<!--#include virtual="includes/masthead01.html" -->
+	<object id="masthead" type="text/html" data="includes/masthead01.html"></object>
 	<!--#include virtual="includes/fauna_thumbs01.html" -->
 	
 	<div class="mainarea">

@@ -1,13 +1,9 @@
 <!doctype html>
 <html>
 <head>
+<title>ooh-oink</title>
 <meta charset="utf-8">
-<title>OOOOOOOOOH-OINK!</title>
-<meta name="description" content="Photos relating to the war experiences of Don Gowlett, 1/4 Battalion, 4th Indian Division, Essex Regiment 1939-1945" />
-<meta name="keywords" content="mitchell gowlett stimson yates melvin mcdermid conroy 1939-45 war WWII WW2 world war two freetown sierra leone el alamein north africa italy monte cassino cyprus" />
-
 <link rel="stylesheet" href="styles/main.css" />
-<script src="scripts/warSwapper.js" type="text/JavaScript"></script>
 </head>
 
 <!-- BEGIN PAGE -->
@@ -15,17 +11,23 @@
 <div class="container">
 	<!--#include file="includes/masthead01.html" -->
 
-	<div class="mainarea">
-		<div class="homepic"><img id="imgPhoto" src="images/home/sign.jpg" alt="" width="929" height="697" usemap="#map" /></div>
+	<div class="mainarea" style="text-align:center; width:100%;">
+		<div class="homepic">
+      <img src="images/home/sign.jpg" alt="" width="100%" usemap="#map" />
+         <div id="hot1" class="hots">
+         	<a href="war01.shtml" title="photos from 1939-45 - Sierra Leone, North Africa"><img src="images/common/spacer.gif" alt="photos from 1939-45 - Sierra Leone, North Africa" title="photos from 1939-45 - Sierra Leone, North Africa" /></a>
+         </div>
+         <div id="hot2" class="hots">
+         	<a href="fauna01.shtml" title="photo gallery"><img src="images/common/spacer.gif" alt="photo gallery" title="photo gallery" /></a>
+         </div>
+         <div id="hot3" class="hots">
+         	<a href="family01.shtml" title="family"><img src="images/common/spacer.gif" alt="family" title="family" /></a>
+         </div>
+      </div>
 	</div>
 
 </div>
 
-<map name="map" id="map">
-<area shape="rect" coords="254,148,452,329" alt="photos from 1939-45 - Sierra Leone, North Africa" title="photos from 1939-45 - Sierra Leone, North Africa" href="war01.shtml" />
-<area shape="rect" coords="515,163,702,321" alt="my photo gallery" title="my photo gallery - under construction" href="fauna01.shtml" />
-<area shape="rect" coords="238,426,437,509" alt="family stuff" title="family stuff - under construction" href="family01.shtml" />
-</map>
 
 </body>
 </html>
